@@ -1,0 +1,1 @@
+{"$comment":"Copy this file to server/config.local.json (same folder as server.mjs) and edit the paths to YOUR folders. config.local.json is git-ignored — it must never be committed. Environment variables with the MCP_* names override these values.","base":"C:\\LocalMCP","maxReadBytes":204800,"port":8787,"root":"D:\\Work","tokenFile":"C:\\LocalMCP\\token.txt"}

@@ -1,0 +1,16 @@
+# Secrets — never commit these
+token.txt
+*.token
+.env
+config.local.json
+
+# Runtime output
+logs/
+audit.log
+*.log
+
+# Local work folder used when MCP_ROOT is left at the default
+server/work/
+
+# Raw screenshots may contain tokens, URLs and real paths
+screenshots/raw/
